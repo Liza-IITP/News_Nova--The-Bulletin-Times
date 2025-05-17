@@ -1,3 +1,3 @@
-# News_Nova-The-Bulletin-Times
+# The-Bulletin-Times
 Major news
 ![alt-text](news.png)
